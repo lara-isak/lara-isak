@@ -6,12 +6,12 @@
 
 <p>:heartpulse: I love expanding my web dev knowledge by building fun projects (with a personal touch :sparkles:) while experimenting with different technologies.</p>
 
-<p>:alembic: I’m currently working on modifying my <a href="https://github.com/lara-isak/moodify" target="_blank">moodify</a> app to display Spotify playlists based on the weather conditions at a user's location.</p>
+<p>:alembic: I’m currently working on modifying my <a href="https://github.com/lara-isak/moodify">moodify</a> app to display Spotify playlists based on the weather conditions at a user's location.</p>
 
 <p>:seedling: I’m currently learning React and how to work with APIs.</p>
 
-<p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and progress with others.</p>
+<p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and learning progress with others.</p>
 
 <p>:pause_button: I like to unwind by wandering around and listening to audiobooks / podcasts.</p>
 
-<p>:zap: Fun fact: I was a singer in a funk-jazz band.</p>
+<p>:microphone: Fun fact: I was a singer in a funk-jazz band.</p>
