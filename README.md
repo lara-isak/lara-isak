@@ -10,7 +10,7 @@
 
 <p>:seedling: I’m currently learning React and how to work with APIs.</p>
 
-<p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and learning progress.</p>
+<p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and my learning progress.</p>
 
 <p>:pause_button: I like to unwind by wandering around and listening to audiobooks / podcasts.</p>
 
