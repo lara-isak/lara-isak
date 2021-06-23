@@ -12,6 +12,6 @@
 
 <p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and my learning progress.</p>
 
-<p>:pause_button: I like to unwind by wandering around and listening to audiobooks (currently listening ▶️ <b>Atomic Habits</b> by <b>James Clear</b>) / podcasts.</p>
+<p>:pause_button: I like to unwind by wandering around and listening to podcasts / audiobooks (currently listening ▶️ <b>Atomic Habits</b> by <b>James Clear</b>).</p>
 
 <p>:microphone: Fun fact: I was a singer in a funk-jazz band.</p>
