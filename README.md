@@ -14,4 +14,4 @@
 
 <p>:pause_button: I like to unwind by wandering around and listening to podcasts / audiobooks (currently listening ▶️ <b>Atomic Habits</b> by <b>James Clear</b>).</p>
 
-<p>:microphone: Fun fact: I was a singer in a funk-jazz band called Corpo Morto.</p>
+<p>:microphone: Fun fact: I was a singer in a funk-jazz band called Corpo Morto ⚓.</p>
