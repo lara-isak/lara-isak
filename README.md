@@ -8,7 +8,7 @@
 
 <p>:alembic: I’m currently working on modifying my <a href="https://github.com/lara-isak/moodify">moodify</a> app to display Spotify playlists based on the weather conditions at a user's location.</p>
 
-<p>:seedling: I’m currently learning <b>React</b> and <b>how to work with APIs</b>.</p>
+<p>:seedling: I’m currently learning <b>how to work with APIs</b> and <b>basics of React</b>.</p>
 
 <p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and my learning progress.</p>
 
