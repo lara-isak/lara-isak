@@ -6,7 +6,7 @@
 
 <p>:heartpulse: I love expanding my web dev knowledge by <b>building fun projects</b> (with a personal touch :sparkles:) while <b>experimenting with different technologies</b>.</p>
 
-<p>:seedling: I’m currently learning <b>how to work with APIs</b> and <b>fiddling around with React</b>.</p>
+<p>:seedling: I’m currently <b>fiddling around with React</b> and learning <b>how to work with APIs</b>.</p>
 
 <p>:mailbox: You can find me on <a href="https://twitter.com/lara_isak">Twitter</a> where I like to share my findings and my learning progress.</p>
 
