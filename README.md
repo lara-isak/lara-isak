@@ -6,8 +6,8 @@
 
 <p>:heartpulse: I love expanding my web dev knowledge by <b>building fun projects</b> (with a personal touch :sparkles:) while <b>experimenting with different technologies</b>.</p>
 
-<p>:seedling: I’m currently <b>fiddling around with React</b> and learning <b>how to work with APIs</b>.</p>
+<p>:seedling: I’m currently <b>fiddling around with Next.js, TypeScript & Tailwind CSS</b>.</p>
 
-<p>:pause_button: I like to unwind by wandering around and listening to music / audiobooks (currently listening ▶️ <b>Greenlights</b> by <b>Matthew McConaughey</b>).</p>
+<p>:pause_button: I like to unwind by wandering around and listening to music / audiobooks / podcasts.</p>
 
 <p>:microphone: Fun fact: I was a singer in a funky-dance-pop band called Corpo Morto ⚓.</p>
