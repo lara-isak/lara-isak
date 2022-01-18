@@ -6,7 +6,7 @@
 
 <p>:heartpulse: I love expanding my web dev knowledge by <b>building fun projects</b> (with a personal touch :sparkles:) while <b>experimenting with different technologies</b>.</p>
 
-<p>:seedling: I’m currently <b>fiddling around with Next.js, TypeScript & Tailwind CSS</b>.</p>
+<p>:seedling: I’m currently <b>fiddling around with Next.js & Tailwind CSS</b>.</p>
 
 <p>:pause_button: I like to unwind by wandering around and listening to music / audiobooks / podcasts.</p>
 
