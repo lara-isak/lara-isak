@@ -8,6 +8,6 @@
 
 <p>:seedling: I’m currently <b>fiddling around with Next.js, TypeScript & Tailwind CSS</b>.</p>
 
-<p>:pause_button: I like to unwind by wandering around and listening to music / audiobooks / podcasts.</p>
+<p>:pause_button: I like to unwind by wandering around, discovering new places, listening to music, going to concerts, enjoying craft beer and Texas style BBQ.</p>
 
 <p>:microphone: Fun fact: I was a singer in a funky-dance-pop band called Corpo Morto ⚓.</p>
