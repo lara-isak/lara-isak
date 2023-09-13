@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</p>
 
-<p>I'm Lara, Frontend Developer from :croatia: <b>Split, Croatia</b> currently living in :de: <b>Berlin, Germany</b>. </p>
+<p>I'm Lara, Software Engineer from :croatia: <b>Split, Croatia</b> currently living in :de: <b>Berlin, Germany</b>. </p>
 
 <p>:heartpulse: I love expanding my web dev knowledge by <b>building fun projects</b> (with a personal touch :sparkles:) while <b>experimenting with different technologies</b>.</p>
 
